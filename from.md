@@ -19,6 +19,9 @@
 |Gmm|Ruler37C8|1148:103    | 1 | 3 | 2 | 1 | - |
 |bFr|Ruler0D2A|228:256     | 6 | 6 | 6 | 4 | - |
 |---|Ruler87BA|949:1073    | 5 | 2 | 2 | 2 | - |
+
+|???|RulerEC7C|346:1052    | 5 | 1 | 5 | 1 | - |
+
 |bAT|KilauTaragang|1160:49 | 5 | 2 | 3 | 1 | - |
 |bAT|Lusset|1158:49        | 6 | 5 | 4 | 1 | - |
 |Gmm|mahdi|1158:103        | 2 | 6 | 1 | 3 | - |
@@ -26,6 +29,8 @@
 |FPA|Karakurt|1197:83      | 3 | 1 | 1 | 3 | - |
 |---|Night88888|949:1077   | 1 | 3 | 1 | 0 | - |
 |---|Leonidas|949:1077     | 4 | 6 | 6 | 3 | - |
+
+|hun|Macky13|949:1077      | 4 | 3 | 4 | 2 | - |
 
 
 
@@ -42,6 +47,14 @@ VKG敌人列表
 |VKG|一拳超人|964:1112      | 3 | 1 | 1 | 1 | ? |
 |VKG|WolF|112:1139         | 5 | 3 | 5 | 2 | ? |
 |VKG|NomarOptinal|985:948  | 
+|VKG|Bagindo Nest|423:99   |
+|VKG|BankG|512:282         |
+|VKG|UniGod69|417:97       |
+|VKG|7Koom|427:98          |
+|VKG|ALABAN YHUAN|411:89   |
+|VKG|I I I|90:263          |
+|VKG|shadow16|411:84       | 
+|VKG|BiskuKering|509:278   | 
 
 
 
