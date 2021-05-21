@@ -66,6 +66,7 @@ VKG敌人列表
 |VKG|shadow16|411:84       | 
 |VKG|BiskuKering|509:278   | 
 |VKG|Ayen300|459:1058      |
+|VKG|Andrelus|227:92       |
 
 Jon敌人列表
 |联盟| 名字  | (X:Y)        | 叶| 粘| 肉| 沙| 蜜（畜牧）|
