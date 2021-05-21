@@ -54,7 +54,7 @@ VKG敌人列表
 |VKG|一拳超人|964:1112      | 3 | 1 | 1 | 1 | ? |
 |VKG|WolF|112:1139         | 5 | 3 | 5 | 2 | ? |
 |VKG|NomarOptinal|985:948  | 
-|VKG|Bagindo Nest|423:99->212:271->419:95   |
+|VKG|Bagindo Nest|423:99->212:271->419:95>196:101|
 |VKG|BankG|512:282         |
 |VKG|UniGod69|417:97       |
 |VKG|7Koom|427:98          |
